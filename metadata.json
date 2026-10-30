@@ -1,0 +1,8 @@
+{
+  "name": "Remix Rapor Digital Kurikulum Merdeka SD",
+  "description": "Aplikasi Rapor Digital SD Kurikulum Merdeka untuk Fase A, B, dan C dengan integrasi AI narasi capaian kompetensi, sinkronisasi otomatis, analisis perkembangan real-time, modul KKTP, CP, dan cetak PDF resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
